@@ -10,14 +10,14 @@
 ## 环境
 ### 开发环境
 ``` 
-windows7 + Python 2.7.10 + pycharm 2016.2.3
+windows7 + Python 3.5 + pycharm 2016.2.3
 ```
 ### 测试环境
 ``` 
-Ubuntu 16.04 LTS x64 +  Python 2.7.12
+Ubuntu 16.04 LTS x64 +  Python 3.5
 ```
 ### 使用环境
-`Python 2.x`   
+`Python 3.x`   
 
 ## 获取
 ### `pip`
@@ -26,19 +26,7 @@ Ubuntu 16.04 LTS x64 +  Python 2.7.12
 `点击`  <a href="https://pip.pypa.io/en/stable/"><font face="menlo">pip documentation</font></a> `了解详细的说明`      
 
 
-### FOFA SDK
 
-<strong>安装</strong>  
-```
-pip install fofa
-```
-or
-
-```
-git clone https://github.com/fofapro/fofa-py.git
-cd fofa-py   
-python setup.py install
-```
 
 ## 依赖
 ### Library
