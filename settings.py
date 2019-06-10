@@ -5,7 +5,6 @@ mysql_conn = {
     "user": "root",
     "password": "RONGhe@123",
     "database": "message_repository",
-    "port": 3306,
     "charset": "utf8",
     "flag": True
 }
